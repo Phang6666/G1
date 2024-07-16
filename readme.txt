@@ -1,2 +1,2 @@
 This is read me file
-Welcome to P1 class today!!!
+Welcome to SCC P1 class today!!!
